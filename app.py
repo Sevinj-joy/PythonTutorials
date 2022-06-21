@@ -12,4 +12,9 @@
 
 phrase = "Giraffe Academy"
 # print(phrase + " "+ "is the best")
-print(phrase.isupper())
+# print(phrase.isupper())
+# print(phrase.upper())
+# print(len(phrase))
+# print(phrase.index("f"))
+# print(phrase[12])
+print(phrase.replace("Giraffe","Code"))
