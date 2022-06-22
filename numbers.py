@@ -12,8 +12,12 @@ from math import *
 # my_num = -35
 # print(abs(my_num))
 
-my_num = -8
-# print(round(3.2))
+# my_num = -8
+# # print(round(3.2))
 
-# print(max(6,8))
-print(sqrt(36))
+# # print(max(6,8))
+# print(sqrt(36))
+print(10 > 9)
+print(10 == 9)
+print(10 < 9)
+
