@@ -13,11 +13,24 @@ from math import *
 # print(abs(my_num))
 
 # my_num = -8
-# # print(round(3.2))
+#print(round(3.2))
 
-# # print(max(6,8))
+# print(max(6,8))
 # print(sqrt(36))
 print(10 > 9)
 print(10 == 9)
 print(10 < 9)
 
+a = 200
+b = 33
+
+if b > a:
+  print("b is greater than a")
+else:
+  print("b is not greater than a")
+
+x = "Hello"
+y = 15
+
+print(bool(x))
+print(bool(y))
